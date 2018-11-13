@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+$font-stack: Helvetica, sans-serif;
+$primary-color: green;
+$text-align: center;
+
+h1 {
+    color:  $primary-color;
+    font-family: $font-stack;
+    text-align: $text-align;
+}
